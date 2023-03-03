@@ -1,0 +1,2 @@
+# pacget
+a package manager
